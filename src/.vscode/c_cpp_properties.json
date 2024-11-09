@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/cadlab/Downloads/Section5_Control/arduinobot_ws/install/arduinobot_msgs/include/**",
+        "/home/cadlab/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/cadlab/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/cadlab/puma560/src/puma650_description/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
